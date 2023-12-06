@@ -1,6 +1,8 @@
 # stance-detection
 
-## Dataset:
+
+
+## Dataset
 
 ### NLPCC-2016
 
@@ -15,7 +17,7 @@
 
 
 
-## hyperparameter:
+## hyperparameter
 
 | Hyperparameter |      Setting       |
 | :------------: | :----------------: |
