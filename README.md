@@ -4,7 +4,7 @@
 
 ## Dataset
 
-### NLPCC-2016
+### [NLPCC-2016](http://tcci.ccf.org.cn/conference/2016/pages/page05_CFPTasks.html)
 
 |         Target         | Total  | Unlabeled | Labeled for training | Labeled for test |
 | :--------------------: | :----: | :-------: | :------------------: | :--------------: |
