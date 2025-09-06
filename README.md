@@ -26,5 +26,4 @@
 |   Batch size   |         16         |
 | Learning rate  |        2e-5        |
 | Loss function  | Cross Entropy Loss |
-|   Optimizer    |        Adam        |
 |       λ        |        0.8         |
